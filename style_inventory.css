@@ -1,0 +1,110 @@
+body {
+    
+    display: block;
+    background-color: red;
+    margin: 0 auto;
+}
+
+ol {
+    display: block;
+    font-family: 'Comfortaa', sans-serif;
+    padding-left: 130px;
+
+}
+
+a {
+    text-decoration: none;
+    
+}
+h3 {
+    display: block;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 35px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    
+}
+
+h5{
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    margin: 10px;
+    padding-bottom: 5px;
+    padding-top: 25px;
+    display: block;
+    padding-left: 80px;
+    color: white;
+}
+
+a:hover {
+    color: white;
+    font-size: 150%;
+
+}
+
+.button {
+  border-radius: 15px;
+  background-color: red;
+  border: none;
+  color: #FFFFFF;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 20px;
+  display: inline-block;
+  font-family: 'Comfortaa', monospace;
+  margin-top: 50px;
+  
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+p {
+    font-family: 'Raleway', monospace;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+h2 { 
+    padding-left: 80px;
+    font-family: 'Raleway', monospace;
+}
+
+#array {
+    margin-left: 120px;
+    display:flex;
+    margin-top: 0px;
+}
+
+p.array { 
+
+}

@@ -1,0 +1,88 @@
+h2 {
+    font-size: 40px;
+    display:block;
+    text-align:center;
+    font-family: Raleway, monospace;
+}
+
+#FNLdiv {
+    font-size: 10px;
+    margin-bottom: -10px;
+    font-family: Raleway, monospace;
+}
+
+#FNdiv { 
+    
+}
+
+#LNLdiv { 
+    font-size: 10px;
+    margin-bottom: -10px;
+    font-family: Raleway, monospace;
+}
+
+#LNdiv { 
+    
+}
+
+#EMLdiv { 
+    font-size: 10px;
+    margin-bottom: -10px;
+    font-family: Raleway, monospace;
+}
+
+#EMdiv { 
+    
+}
+
+#PSWLdiv { 
+    font-size: 10px;
+    margin-bottom: -10px;
+    font-family: Raleway, monospace;
+}
+
+/*#firstName {
+    width: 
+}*/
+
+#Gdiv { 
+    font-size: 20px;
+    margin-bottom: -10px;
+    font-family: Raleway, monospace;
+}
+
+#radio {
+    margin-left: 120px;
+}
+
+
+#maleLabel {
+    margin-left:104px;  
+    font-family: Raleway, monospace;
+}
+
+#femaleLabel {
+    margin-left:98px; 
+    font-family: Raleway, monospace;
+}
+
+#selectLabel {
+    font-size: 20px;
+    margin-bottom: -10px;
+    font-family: Raleway, monospace;
+}
+
+#slider {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#mySelect {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+#checkbox {
+    margin-top: 100px;
+    margin
+}

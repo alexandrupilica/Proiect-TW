@@ -1,0 +1,24 @@
+.col {
+    padding-top: 20px;
+    padding-bottom: 1px;
+}
+
+h3 {
+    padding: 70px;
+    display: block;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+}
+
+body {
+    background-color: red !important;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+form {
+    width: 50%;
+    position: absolute;
+    left: 25%;
+}
+
